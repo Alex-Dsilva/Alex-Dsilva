@@ -1,4 +1,9 @@
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 15%" />
+</div>  
+
+
 <div id="header" align="center" >
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
   <h1 style='color:red' align="center">Hi 👋, I'm Alex Dislva</h1>
@@ -9,6 +14,26 @@
 
 
 <h3 align="center">A passionate full stack developer from India</h3>
+
+### <div align="center">here are a few pointers listed below that best describe me. </div>  
+  
+
+- 💭I let my imagination run wild, which allows me to be very creative in what I do.  
+  
+
+- 🌱 I like to improve myself better than tomorrow   
+  
+
+- 👨‍👧‍👦 I am a good team player. I enjoy working in a team environment, and I get along well with people very well  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: "Take an idea and work on it" that's what I believe  
+  
+
+<br/>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
 

@@ -35,7 +35,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfp05405" alt="alexfp05405" /></a> </p>
+<p align="center"> <a href="https://github.com/Alexfp05405"><img src="https://github-profile-trophy.vercel.app/?username=alexfp05405" alt="alexfp05405" /></a> </p>
 
 
 

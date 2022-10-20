@@ -18,16 +18,16 @@
 - 💭I let my imagination run wild, which allows me to be very creative in what I do.  
   
 
-- 🌱 I like to improve myself better than tomorrow   
+- 🌱 I like to improve myself better than tomorrow.  
   
 
-- 👨‍👧‍👦 I am a good team player. I enjoy working in a team environment, and I get along well with people very well  
+- 👨‍👧‍👦 I am a good team player. I enjoy working in a team environment, and I get along well with people very well.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
 
-- ⚡ Fun fact: "Take an idea and work on it" that's what I believe  
+- ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
   
 
 <br/>  

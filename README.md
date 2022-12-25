@@ -1,13 +1,16 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
  <div id="header" align="center" >
  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="250" />
  <br/>
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
   <h1 style='color:red' align="center">Hi 👋, I'm Alex Dislva</h1> 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
 
-                                                             🌐 Connect with me:
+<h3 align="center" >A passionate full stack developer from India</h3>
+
+
+
+ ##  🌐 Connect with me:
 <p align="left">
 <a href="mailto:alexdislva79@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
@@ -23,7 +26,6 @@
 </a>
 
 
-## A passionate full stack developer from India</h3>
 
 ### <div align="left">Here are a few pointers listed below that best describe me. </div>  
   

@@ -43,15 +43,8 @@
   
 
 - ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
-
-  ---
-  
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfp05405&theme=2077" width="100%" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alexfp05405&theme=react-dark&custom_title=alexfp05405%20's%20contribution%20Graph&hide_border=true" />
-  
- <h2><i>Tech Stacks</i></h2>
+---
+ <h3><i>Tech Stacks I have worked with :</i></h3>
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -87,14 +80,14 @@
 
 <p align="center"> <a href="https://github.com/Alexfp05405"><img src="https://github-profile-trophy.vercel.app/?username=alexfp05405&theme=dark&count_private=true" alt="alexfp05405" /></a> </p>
 
-
 <table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
   </tr>
 </table>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfp05405&theme=2077" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=alexfp05405&theme=react-dark&custom_title=alexfp05405%20's%20contribution%20Graph&hide_border=true" />
 
 
 

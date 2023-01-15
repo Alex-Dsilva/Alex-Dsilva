@@ -82,7 +82,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfp05405&count_private=true&theme=tokyonight&show_icons=true" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
   </tr>
 </table>

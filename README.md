@@ -18,7 +18,7 @@
 <a href="https://alexfp05405.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
-<a href="www.linkedin.com/in/alex-dislva" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/alex-dislva/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/alexfp05405" style="text-decoration:none">

@@ -1,9 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
  <div id="header" align="center" >
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="250" />
- <br/>
+
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
-  <h1 style='color:red' align="center">Hi 👋, I'm Alex Dislva</h1> 
+ <br/>
+  
+  <h1 style='color:red' valign="center" align="center">Hi <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" align="center" width="42px" />, I'm Alex Dislva</h1> 
 </div>
 
 <h3 align="center" >A passionate full stack developer from India</h3>
@@ -87,8 +88,7 @@
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfp05405&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=alexfp05405&theme=react-dark&custom_title=alexfp05405%20's%20contribution%20Graph&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfp05405&theme=react-dark&custom_title=alexfp05405%20's%20contribution%20Graph&hide_border=true" />
 
 
   

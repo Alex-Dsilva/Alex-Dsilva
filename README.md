@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfp05405&label=Profile%20views&color=0e75b6&style=flat" alt="alexfp05405" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alex-Dsilva&label=Profile%20views&color=0e75b6&style=flat" alt="Alex-Dsilva" /> </p>
  <div id="header" align="center" >
 
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
@@ -16,13 +16,13 @@
 <a href="mailto:alexdislva79@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://alexfp05405.github.io/" target="_blank">
+<a href="https://Alex-Dsilva.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/alex-dislva/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/alexfp05405" style="text-decoration:none">
+<a href="https://github.com/Alex-Dsilva" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
@@ -79,16 +79,16 @@
   </p>
   <br>
 
-<p align="center"> <a href="https://github.com/Alexfp05405"><img src="https://github-profile-trophy.vercel.app/?username=alexfp05405&theme=dark&count_private=true" alt="alexfp05405" /></a> </p>
+<p align="center"> <a href="https://github.com/Alex-Dsilva"><img src="https://github-profile-trophy.vercel.app/?username=Alex-Dsilva&theme=dark&count_private=true" alt="Alex-Dsilva" /></a> </p>
 
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-Alex-Dsilva.vercel.app/api?username=Alex-Dsilva&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Dsilva&show_icons=true&locale=en&theme=algolia&count_private=true" alt="Alex-Dsilva" /></td>
   </tr>
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfp05405&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfp05405&theme=react-dark&custom_title=alexfp05405%20's%20contribution%20Graph&hide_border=true" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Dsilva&theme=2077" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Dsilva&theme=react-dark&custom_title=Alex-Dsilva%20's%20contribution%20Graph&hide_border=true" />
 
 
   

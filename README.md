@@ -81,12 +81,12 @@
 
 <p align="center"> <a href="https://github.com/Alex-Dsilva"><img src="https://github-profile-trophy.vercel.app/?username=Alex-Dsilva&theme=dark&count_private=true" alt="Alex-Dsilva" /></a> </p>
 
-<table>
+<!--<table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-Alex-Dsilva.vercel.app/api?username=Alex-Dsilva&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Dsilva&show_icons=true&locale=en&theme=algolia&count_private=true" alt="Alex-Dsilva" /></td>
+    <td valign="top"><img align"center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Dsilva&show_icons=true&locale=en&theme=algolia&count_private=true" alt="Alex-Dsilva" /></td>
   </tr>
-</table>
+</table>-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Dsilva&theme=2077" width="100%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Dsilva&theme=react-dark&custom_title=Alex-Dsilva%20's%20contribution%20Graph&hide_border=true" />
 
